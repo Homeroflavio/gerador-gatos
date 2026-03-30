@@ -9,7 +9,7 @@ O projeto foi desenvolvido utilizando **HTML, CSS e JavaScript**, consumindo uma
 ## 🚀 Demonstração
 
 🔗 **Acesse o projeto online:**
-[https://homeroflavio.github.io/gerador-gatinhos](https://homeroflavio.github.io/gerador-gatos/)
+[https://homeroflavio.github.io/gerador-gatinhos](https://gerador-gatos.vercel.app/)
 
 ---
 
