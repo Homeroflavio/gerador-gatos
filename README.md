@@ -75,6 +75,40 @@ Este projeto foi desenvolvido como atividade prática para:
 
 ---
 
+## 📱 Versão PWA (Progressive Web App)
+
+Este projeto foi evoluído para um **PWA (Progressive Web App)**, permitindo que o site funcione como um aplicativo instalado no dispositivo.
+
+### 🚀 Funcionalidades PWA
+
+* 📲 Pode ser instalado no celular ou desktop
+* ⚡ Carregamento rápido com cache (Service Worker)
+* 🌐 Funciona parcialmente offline
+* 🎨 Ícone personalizado na tela inicial
+
+### ⚙️ Tecnologias utilizadas no PWA
+
+* `manifest.json` → configuração do app
+* `service-worker.js` → cache e funcionamento offline
+
+### 📥 Como instalar
+
+1. Acesse o site
+2. No navegador, clique em **"Instalar"** ou **"Adicionar à tela inicial"**
+3. O app será instalado como um aplicativo nativo
+
+---
+
+## 📳 Recurso de Hardware
+
+O projeto também utiliza um recurso de hardware do dispositivo:
+
+* Vibração ao gerar um novo gatinho (`navigator.vibrate`)
+
+Isso melhora a interatividade, principalmente em dispositivos móveis.
+
+---
+
 ## 👨‍💻 Autor
 
 Projeto desenvolvido por **Homero Flávio**.
